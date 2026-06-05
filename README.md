@@ -1,15 +1,11 @@
-# Hi there 👋, I'm Samyukta Menon
+# Hi, I'm Samyukta ✨
 
 ## About Me
 
 🎓 Computer Science Student at VIT Bhopal University <br/>
-
 🤖 Interested in Artificial Intelligence, Machine Learning, and Data Science <br/>
-
 💻 Passionate about Software Development and Problem Solving <br/>
-
 🚀 Continuously learning, building projects, and exploring new technologies <br/>
-
 🌱 Currently learning Machine Learning, Data Analytics, and Full-Stack Development <br/>
 
 
