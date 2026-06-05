@@ -1,7 +1,5 @@
 # Hi, I'm Samyukta ✨
 
-## About Me
-
 🎓 Computer Science Student at VIT Bhopal University <br/>
 🤖 Interested in Artificial Intelligence, Machine Learning, and Data Science <br/>
 💻 Passionate about Software Development and Problem Solving <br/>
