@@ -6,7 +6,7 @@
 🤖 Interested in Artificial Intelligence, Machine Learning, and Data Science <br/>
 💻 Passionate about Software Development and Problem Solving <br/>
 🚀 Continuously learning, building projects, and exploring new technologies <br/>
-🌱 Currently learning Machine Learning, Data Analytics, and Full-Stack Development <br/>
+🌱 Currently exploring Machine Learning, Data Science, and Full-Stack Development <br/>
 
 
 # 💻 Tech Stack:
